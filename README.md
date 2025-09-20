@@ -37,3 +37,5 @@ Philosophy
 "A person is a person through other persons." - Ubuntu philosophy.
 
 This program connects you to the work of others across the web. We strive to be respectful of the content creators by providing a clean, transparent, and non-intrusive way to collect public images.
+
+# Ubuntu_REquests
